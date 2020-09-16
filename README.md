@@ -22,6 +22,8 @@ Connect the piezo buzzer to ```PIN 9``` and ```GND```.
 * Upload/flash the program on the microcontroller.
 * To generate documentation, issue the command ```doxygen Doxyfile```. The documentation will be generated in the ```docs``` folder.
 
+Visit [this](https://github.com/RobotBramhana/arduino_music/wiki/Quick-compose-guide) wiki page for composing a new tune.
+
 ---
 
 ## Author
