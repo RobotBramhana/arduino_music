@@ -54,8 +54,8 @@
 /** @brief To reset notes. Named it Z for 0 Hz  */
 #define  Z     0       
 
-/** @brief The buzzer connected to PIN 9. */
-int speakerOut = 9; 
+/** @brief The buzzer connected to PIN 2. */
+int speakerOut = 2; 
 
 /** @brief Musical notes. */
 int bilahari[]={s,r,g,p,d,

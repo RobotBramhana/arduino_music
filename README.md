@@ -13,8 +13,8 @@ This repository contains packages that play tunes from [Carnatic music](https://
 * USB cable
 
 > ## Circuit
-Connect the piezo buzzer to ```PIN 9``` and ```GND```.
-
+Connect the piezo buzzer to ```PIN 9``` and ```GND``` as shown in the image below.
+![Circuit](Circuit.png)
 > ## Instructions
 * Open the selected package/project of your choice in Arduino IDE.
 * Select the board from ```Tools```
