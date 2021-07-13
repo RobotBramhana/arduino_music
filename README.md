@@ -8,6 +8,7 @@ This repository contains packages that play tunes from [Carnatic music](https://
 
 * Arduino IDE - To build and flash the program.
 * Doxygen - To generate documentation of the code.
+* Fritzing - To view/modify circuit design.
  
 ### Hardwares
 
@@ -18,8 +19,8 @@ This repository contains packages that play tunes from [Carnatic music](https://
 ### Circuit
 
 Connect the piezo buzzer to ```PIN 9``` and ```GND``` as shown in the image below.
-![Circuit](docs/Circuit.png)
-A copy of the circuit source file is in ```docs``` folder.
+
+A circuit needs to be setup as in ```docs``` folder.
 
 ## Instructions
 
@@ -30,6 +31,12 @@ A copy of the circuit source file is in ```docs``` folder.
 * To generate documentation, issue the command ```doxygen Doxyfile```. The documentation will be generated in the ```docs/html``` folder.
 
 Visit [this](https://github.com/RobotBramhana/arduino_music/wiki/Quick-compose-guide) wiki page for composing a new tune.
+
+## Demos
+
+### bilahari swarjithe
+
+The program when flashed to microcontroller, will play tune as shown in this video [here](https://youtu.be/gItngypelv4).
 
 ---
 
